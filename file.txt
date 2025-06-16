@@ -1,2 +1,4 @@
+line b
+
 line
 line a, b from main branch
